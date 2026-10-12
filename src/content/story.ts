@@ -149,12 +149,6 @@ export const story: readonly Scene[] = [
     nextLabel: "Lanjut",
   },
   {
-    id: "transition",
-    kind: "transition",
-    line: "Oke, tanpa basa-basi.",
-    nextLabel: "Lanjut",
-  },
-  {
     id: "closing",
     kind: "closing",
     name: "Fitry Yulia Ningsi,",
