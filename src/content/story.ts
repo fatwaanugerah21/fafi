@@ -64,7 +64,7 @@ export const story: readonly Scene[] = [
   {
     id: "opener",
     kind: "opener",
-    lines: ["Saya Fatwa.", "Kamu Fitry."],
+    lines: ["Saya Fatwa, Kamu Fitry.", "Saya Fatwa, Kamu Fitry."],
     support: "Ini cerita kita sejauh ini.",
     nextLabel: "Mulai cerita",
   },
